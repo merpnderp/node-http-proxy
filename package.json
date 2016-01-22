@@ -1,11 +1,11 @@
 {
-  "name": "http-proxy",
-  "version": "1.12.0",
+  "name": "http-proxy-ntlmfix",
+  "version": "1.12.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodejitsu/node-http-proxy.git"
+    "url": "https://github.com/merpnderp/node-http-proxy.git"
   },
-  "description": "HTTP proxying for the masses",
+  "description": "A temporary patch containing a fix for NTLM auth",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "maintainers": [
     "yawnt <yawnt@nodejitsu.com>",
